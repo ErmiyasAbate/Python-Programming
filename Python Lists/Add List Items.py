@@ -7,6 +7,6 @@ b.insert(1, "orange")
 print(b)
 
 c = ["apple", "banana", "cherry"]
-d = ["mango", "pineapple", "papaya"]
+d = ["mango", "pineapple", "papaya", "apple"]
 c.extend(d)
 print(c)
